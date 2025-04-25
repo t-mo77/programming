@@ -1,4 +1,3 @@
-//AJG24080 今場智哉
 #include <stdio.h>
 int main(void){int x,y,z;
 x=128;
